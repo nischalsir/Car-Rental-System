@@ -1,0 +1,36 @@
+Date: Fri Mar 03 12:51:04 2023
+
+Invoice Number: 1002
+Customer Name: Tarani
+Car Brand: BMW
+Car Model: M4
+Reg' No: 4321
+Number of days: 7
+Rental Amount: 16100
+Date: Fri Mar 03 12:53:47 2023
+
+Invoice Number: 1002
+Customer Name: ANTIMA
+Car Brand: Tesla
+Car Model: S
+Reg' No: 7890
+Number of days: 20
+Rental Amount: 40000
+Date: Fri Mar 03 14:25:11 2023
+
+Invoice Number: 1002
+Customer Name: Utsab
+Car Brand: Toyota
+Car Model: Corolla(E170)
+Reg' No: 4455
+Number of days: 2
+Rental Amount: 1600
+Date: Fri Mar 03 14:25:43 2023
+
+Invoice Number: 1003
+Customer Name: Utsab
+Car Brand: BMW
+Car Model: M4
+Reg' No: Pokharel
+Number of days: 0
+Rental Amount: 1875946688

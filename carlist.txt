@@ -1,0 +1,6 @@
+Toyota Corolla(E170) Black 4455 2017 14 800
+Honda Civic Black 5678 2021 16 1500
+Ford Mustang Red 2468 2020 12 900
+Chevrolet Camaro Blue 1357 2023 11 1350
+Tesla S Silver 7890 2021 0 2000
+BMW M4 Gray 4321 2022 15 2300
